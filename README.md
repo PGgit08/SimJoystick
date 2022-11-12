@@ -27,7 +27,6 @@ The schematic can be found **[here](Hardware/SimJoystick.sch)** and an image of 
 - Wire (Generic)
 - Jumper Wires male to female (Generic)
 - Pin Headers female to male (Generic)
-
 - Any Thick Cardboard (Generic)
 - Some Straws for Support (Generic)
 
